@@ -1,0 +1,10 @@
+# 產生憑證私鑰
+openssl genrsa -out self_key.pem 4096
+# 產生csr
+openssl req -new  -key self_key.pem -out self.csr
+# 用 Root CA 簽名
+openssl x509 -req -in self.csr -CA  root_ca.pem -CAkey root_key.pem -CAcreateserial -out self_ca.pem -days 365
+# 驗證
+openssl x509 -in self_ca.pem -text -noout
+# 連線
+openssl s_client -host cns.csie.org -port 10077 -cert self_ca.pem -key self_key.pem

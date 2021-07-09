@@ -1,0 +1,47 @@
+### round1 ###
+Many people think the Caesar salad was named after Julius Caesar -- it's not.
+The Caesar salad was invented by an Italian man named Caesar Cardini.
+
+[+] c1 = bmm tljmmt xijdi ibwf cffo sfrvjsfe cz qsjps DUG dpouftut bu
+[+] m1 = ?
+[>]: all skills which have been required by prior CTF contests at
+good job!
+
+### round2 ###
+Alice : I can send message to Bob with perfect secrecy.
+
+[+] c1 = 090900242d2029001338160e1100393901331d091b003919001d3c01113b0c0b250b0023020e193a003215360b15090a13001f3701072d2708003900
+[+] Eve : fg FBTA gPsgc JLbPxzh Pw yYgtUhbKl WjkpH SfEbrgow rVboDIm(J)
+Alice : Ohh, now you know what I just said. We should'nt have use the secret twice.
+[+] m1 = ?
+[>]:
+
+### round3 ###
+Do you like Bacon?
+
+[+] m1 = BACONISDELICIOUS
+[+] c1 = bacoNian theorY of SHAkeSPeApEare? BacOn's or ANy oTher CaNDiDate's seCreT authORShIp In tHeiR trship in their the shakespeare ciphers examined.
+[+] c2 = competITiOns: aTTaCk/dEfeNse aND JeoPARDy!. in an AttaCk/deFENSe styLe comPEtItion, eaCH tEetition, each team is
+[+] m2 = ?
+[>]
+
+### round 4 ###
+Zig Zag~
+cross the floor, shuffle in diagonal~
+#1
+[+] c1 = iorrotCnscme uicmii Tots  ptsct pto.Fcetaueyen s
+[+] m1 = is a computer security competition. CTF contests
+[+] c2 = adgrntrasdsnun  eig hot tk n ociadat oes ftcfuctnct oao
+[+] m2 = ?
+#2
+[+] c1 = an stadnanet  IneaeJ  fcse.aekno!td/epyt/dfadakerc
+[+] m1 = attack/defense and Jeopardy!. In an attack/defense
+[+] c2 = ics naha dr mi cnes nloaaeaeln cc ,edgtug wunirna cinistg
+[+] m2 = ?
+[>]:
+#3
+[+] c1 = p Rnwgarls eieton, noae.vgeeri lafnt)enrnkfpoleotsrei  frcy,siigs-n,sioosssnegnti
+[+] m1 = professional settings). Reverse-engineering, network sniffing, protocol analysis,
+[+] c2 = C  weeTsa.TtolsrFttNh  y u s OeemtotceDCrrasfpotE eai  anF nc
+[+] m2 = ?
+[>]:
